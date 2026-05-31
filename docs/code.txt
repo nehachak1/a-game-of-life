@@ -1,0 +1,2 @@
+export PATH=$PATH:$(pwd)/verible-v0.0-3841-g5eb8aa34/bin
+verible-verilog-lint template/verilog/controller.v --rules_config flags.txt
