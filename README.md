@@ -1,7 +1,5 @@
 # Game of Life
 
-![Game of Life](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
-
 A simplified version of John Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), implemented in assembly language for the EPFL CS-200 lab. The game runs on the Gecko5 board with a multicycle RISC-V processor.
 
 ## How to Play
